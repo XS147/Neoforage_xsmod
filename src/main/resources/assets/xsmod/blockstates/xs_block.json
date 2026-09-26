@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "xsmod:block/xs_block" }
+  }
+}
